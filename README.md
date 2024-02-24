@@ -1,6 +1,6 @@
 # Example of a Windows Themed Useless Website
 
- [!Warning]  
+> [!Warning]  
 > This repo is a work in progress!
 
 A Useless Website idea suggested by coding students. The idea is to display a window, provide the visitor with the ability to open and close the blinds, each time resulting in a different scene. 
